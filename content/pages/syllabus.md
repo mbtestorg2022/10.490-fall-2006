@@ -74,10 +74,40 @@ Assigned work is due at the beginning of class on the dates given in the schedul
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 40% |
-| Final Report | 60%   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Report
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 
 ABACUSS II
 ----------
@@ -89,28 +119,309 @@ ABACUSS II is an equation-based process simulator that has been developed at MIT
 
 The calendar below provides information on the course's lecture (L), recitations (R), and office hours (OH) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 |  {{< br >}}{{< br >}} Course Goals and Requirements {{< br >}}{{< br >}} Introduction to Batch Processing {{< br >}}{{< br >}}  | &nbsp; |
-| L2 |  {{< br >}}{{< br >}} Lucretex Project {{< br >}}{{< br >}} Project Team Assignments {{< br >}}{{< br >}}  | &nbsp; |
-| L3 | Data Request for Reaction Kinetics | &nbsp; |
-| L4 | Laboratory Kinetic Data and Curve-fitting | &nbsp; |
-| L5 | Batch Reactor Modeling | &nbsp; |
-| L6-L8 | Reactor Model in ABACUSS | Homework 1 due in Ses #L6 |
-| L9 | Batch Distillation | &nbsp; |
-| L10 | Vapor-Liquid Equilibrium Models | Homework 2 due |
-| L11-L12 | Batch Distillation in ABACUSS | &nbsp; |
-| L13 | Base Case Simulation | Homework 3 due |
-| L14-L16 | Batch Process Scheduling | &nbsp; |
-| L17 | Batch Process Economics | Base Case Simulation |
-| L18 | Safety as an Industrial Concern | &nbsp; |
-| L19 | Safety Assessment Methods | &nbsp; |
-| L20 | Environmental Issues in Process Design | &nbsp; |
-| L21 | Review Final Project, Discuss Optimization | Base Case Economics |
-| OH1 | Office Hours | &nbsp; |
-| R1 | Process Optimization | &nbsp; |
-| OH2-OH4 | Office Hours | &nbsp; |
-| R2 | Process Optimization (cont.) | &nbsp; |
-| OH5-OH6 | Office Hours | &nbsp; |
-| R3 | Process Optimization (cont.) | &nbsp; |
-| L22 | Course Evaluation | Final report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Goals and Requirements
+
+Introduction to Batch Processing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lucretex Project
+
+Project Team Assignments
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Data Request for Reaction Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Laboratory Kinetic Data and Curve-fitting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Batch Reactor Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6-L8
+{{< tdclose >}}
+{{< tdopen >}}
+Reactor Model in ABACUSS
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due in Ses #L6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Batch Distillation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Vapor-Liquid Equilibrium Models
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11-L12
+{{< tdclose >}}
+{{< tdopen >}}
+Batch Distillation in ABACUSS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Base Case Simulation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14-L16
+{{< tdclose >}}
+{{< tdopen >}}
+Batch Process Scheduling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Batch Process Economics
+{{< tdclose >}}
+{{< tdopen >}}
+Base Case Simulation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Safety as an Industrial Concern
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Safety Assessment Methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Issues in Process Design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Review Final Project, Discuss Optimization
+{{< tdclose >}}
+{{< tdopen >}}
+Base Case Economics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+OH1
+{{< tdclose >}}
+{{< tdopen >}}
+Office Hours
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Process Optimization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+OH2-OH4
+{{< tdclose >}}
+{{< tdopen >}}
+Office Hours
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Process Optimization (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+OH5-OH6
+{{< tdclose >}}
+{{< tdopen >}}
+Office Hours
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Process Optimization (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Course Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+Final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
